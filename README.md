@@ -1,2 +1,2 @@
-# My-Dropbox
-Projeto realizado para disciplina de Sistemas Distribuídos, simulando o funcionamento do Dropbox utilizando o AWS S3.
+# Projeto MyDropbox
+O projeto simula o funcionamento do Dropbox, utilizando as tecnologias dos buckets S3 da Amazon Web Service(AWS).
